@@ -9,6 +9,7 @@ Guides
 * [Helm Quickstart](https://github.com/kubernetes/helm/blob/master/docs/quickstart.md)
 * [Official Helm doc on developing new charts](https://docs.helm.sh/developing_charts/)
 * [How to create your first helm chart by Bitnami](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/)
+* [Helm Chart best practices](https://github.com/kubernetes/helm/tree/master/docs/chart_best_practices)
 
 Repositories / hubs
 -------------------
