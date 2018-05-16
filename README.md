@@ -10,6 +10,7 @@ Guides
 * [Official Helm doc on developing new charts](https://docs.helm.sh/developing_charts/)
 * [How to create your first helm chart by Bitnami](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/)
 * [Helm Chart best practices](https://github.com/kubernetes/helm/tree/master/docs/chart_best_practices)
+* [Helm authoring awesome charts](https://github.com/helm/helm-classic/blob/master/docs/awesome.md)
 
 Repositories / hubs
 -------------------
@@ -33,5 +34,5 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Jetstack cert-manager, no repo - install from source](https://github.com/jetstack/cert-manager/releases)
 * [VMware Harbor registry](https://github.com/vmware/harbor/tree/master/contrib/helm/harbor)
 * [OpenStack various charts](https://github.com/openstack/openstack-helm)
-
+* [Fn Project](https://github.com/fnproject/fn-helm)
 
