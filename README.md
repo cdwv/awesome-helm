@@ -35,4 +35,5 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [VMware Harbor registry](https://github.com/vmware/harbor/tree/master/contrib/helm/harbor)
 * [OpenStack various charts](https://github.com/openstack/openstack-helm)
 * [Fn Project](https://github.com/fnproject/fn-helm)
+* [Lenses, Apache Kafka, Kafka Connect](https://github.com/Landoop/kafka-helm-charts)
 
