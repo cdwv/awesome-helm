@@ -2,6 +2,13 @@
 
 A collaborative list of awesome [Helm](https://helm.sh) resources
 
+# Contents
+<!-- TOC -->
+
+- [Guides](#guides)
+- [Repositories / hubs](#repositories--hubs)
+- [Application repositories](#application-repositories)
+
 
 Guides
 ------
