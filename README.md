@@ -1,6 +1,8 @@
 # Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collaborative list of awesome [Helm](https://helm.sh) resources
+> A collaborative list of awesome [Helm](https://helm.sh) resources.
+
+Helm is the package manager for Kubernetes, it makes deploying complex application workloads simple, helps organize the update process.
 
 # Contents
 <!-- TOC -->
