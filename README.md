@@ -14,11 +14,11 @@ Helm is the package manager for Kubernetes, it makes deploying complex applicati
 
 Guides
 ------
-* [Helm Quickstart](https://github.com/kubernetes/helm/blob/master/docs/quickstart.md)
-* [Official Helm doc on developing new charts](https://docs.helm.sh/developing_charts/)
-* [How to create your first helm chart by Bitnami](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/)
-* [Helm Chart best practices](https://github.com/kubernetes/helm/tree/master/docs/chart_best_practices)
-* [Helm authoring awesome charts](https://github.com/helm/helm-classic/blob/master/docs/awesome.md)
+* [Helm Quickstart](https://github.com/kubernetes/helm/blob/master/docs/quickstart.md) - Official Kubernetes Quickstart guide for Helm
+* [Developing new charts](https://docs.helm.sh/developing_charts/) - Official Helm guide on authoring new charts
+* [How to create your first helm chart](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/) - Bitnami guide on authoring your first chart
+* [Best practices](https://github.com/kubernetes/helm/tree/master/docs/chart_best_practices) - set of best practices for authoring chart
+* [Authoring awesome charts](https://github.com/helm/helm-classic/blob/master/docs/awesome.md) - official Helm guide on authoring Awesome Charts
 
 Repositories / hubs
 -------------------
@@ -29,19 +29,19 @@ Official Kubernetes helm repositories
 
 3rd party repositories / hubs
 
-* [Fabric8 chart repository](https://fabric8.io/helm/)
-* [Bitnami Kubeapps hub](https://hub.kubeapps.com/)
+* [Fabric8](https://fabric8.io/helm/) - chart repository by Fabric8
+* [Kubeapps](https://hub.kubeapps.com/) - Kubeapps helm chart hub by Bitnami
 
 Application repositories
 ------------------------
 These usually hold a single chart or a group of connected charts. Can be more up to date than the mainstream Kubernetes repos.
 
-* [Gitlab Omnibus charts](https://charts.gitlab.io)
-* [Gitlab Cloud-native charts](https://helm.gitlab.io/)
-* [Jupyterhub and Binderhub charts](https://jupyterhub.github.io/helm-chart/)
-* [Jetstack cert-manager, no repo - install from source](https://github.com/jetstack/cert-manager/releases)
-* [VMware Harbor registry](https://github.com/vmware/harbor/tree/master/contrib/helm/harbor)
-* [OpenStack various charts](https://github.com/openstack/openstack-helm)
-* [Fn Project](https://github.com/fnproject/fn-helm)
-* [Lenses, Apache Kafka, Kafka Connect](https://github.com/Landoop/kafka-helm-charts)
+* [Gitlab Omnibus](https://charts.gitlab.io) - an All-In-One chart for deploying Gitlab in Kubernetes
+* [Gitlab Cloud-native](https://helm.gitlab.io/) - a fresh start for Gitlab Kubernetes deployment, services are now split into their own containers
+* [Jupyterhub and Binderhub](https://jupyterhub.github.io/helm-chart/) - charts for deploying services to run Jupyter notebooks
+* [Jetstack cert-manager](https://github.com/jetstack/cert-manager/releases) - successor of kube-lego, automatically provision Let's Encrypt SSL certificates for services in Kubernetes, this has to be installed from source - no Helm repo so far
+* [VMware Harbor](https://github.com/vmware/harbor/tree/master/contrib/helm/harbor) - VMWare's solution for a container registry
+* [OpenStack](https://github.com/openstack/openstack-helm) - various charts by the OpenStack project
+* [Fn Project](https://github.com/fnproject/fn-helm) - Fn serverless platform charts 
+* [Lenses](https://github.com/Landoop/kafka-helm-charts) - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
 
