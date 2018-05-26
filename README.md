@@ -19,6 +19,7 @@ Guides
 * [How to create your first helm chart](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/) - Bitnami guide on authoring your first chart
 * [Best practices](https://github.com/kubernetes/helm/tree/master/docs/chart_best_practices) - set of best practices for authoring chart
 * [Authoring awesome charts](https://github.com/helm/helm-classic/blob/master/docs/awesome.md) - official Helm guide on authoring Awesome Charts
+* [Kompose](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/) - how to translate a docker-compose file into a Helm chart
 
 Repositories / hubs
 -------------------
