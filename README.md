@@ -10,6 +10,7 @@ Helm is the package manager for Kubernetes, it makes deploying complex applicati
 - [Guides](#guides)
 - [Repositories / hubs](#repositories--hubs)
 - [Application repositories](#application-repositories)
+- [Community](#community)
 
 
 Guides
@@ -45,6 +46,14 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [OpenStack](https://github.com/openstack/openstack-helm) - various charts by the OpenStack project
 * [Fn Project](https://github.com/fnproject/fn-helm) - Fn serverless platform charts 
 * [Lenses](https://github.com/Landoop/kafka-helm-charts) - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
+
+Community
+---------
+Forums, discussion groups, SO tags.
+
+* [Helm Slack](http://slack.k8s.io/) - #helm channel on Kubernetes Slack
+* [StackOverflow Kubernetes-Helm](https://stackoverflow.com/questions/tagged/kubernetes-helm) - Stack Overflow threads tagged kubernetes-helm
+* [StackOverflow Helm](https://stackoverflow.com/questions/tagged/helm) - Stack Overflow threads tagged Helm
 
 Contributing
 =======================================================================
