@@ -51,7 +51,7 @@ Community
 ---------
 Forums, discussion groups, SO tags.
 
-* [Helm Slack](http://slack.k8s.io/) - #helm channel on Kubernetes Slack
+* [Helm Slack](http://slack.k8s.io/) - #helm-users channel on Kubernetes Slack
 * [StackOverflow Kubernetes-Helm](https://stackoverflow.com/questions/tagged/kubernetes-helm) - Stack Overflow threads tagged kubernetes-helm
 * [StackOverflow Helm](https://stackoverflow.com/questions/tagged/helm) - Stack Overflow threads tagged Helm
 
