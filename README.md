@@ -51,7 +51,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 Plugins
 -------
 
-* [helm diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaing what a `helm upgrade` and `helm rollback` would change. It can also compare two separate revisions of the release.
+* [Helm Diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaing what a `helm upgrade` and `helm rollback` would change. It can also compare two separate revisions of the release.
 
 Community
 ---------
