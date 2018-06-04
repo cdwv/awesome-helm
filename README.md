@@ -52,6 +52,10 @@ Plugins
 -------
 
 * [Helm Diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaing what a `helm upgrade` and `helm rollback` would change. It can also compare two separate revisions of the release.
+* [Helm Env](https://github.com/adamreese/helm-env) - a helm plugin to show the environment variables available to a helm plugin.
+* [Helm Last](https://github.com/adamreese/helm-last) - A helm plugin that shows the latest release interacted with. This is useful for chaining commands together like `helm status $(helm last)`.
+* [Helm Local](https://github.com/adamreese/helm-local) - a helm plugin to run Tiller (helm 2's server-side component) as a local daemon.
+* [Helm Nuke](https://github.com/adamreese/helm-nuke) - A helm plugin that deletes and purges all releases stored by Tiller.
 
 Community
 ---------
