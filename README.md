@@ -11,7 +11,7 @@ Helm is the package manager for Kubernetes, it makes deploying complex applicati
 - [Repositories / hubs](#repositories--hubs)
 - [Application repositories](#application-repositories)
 - [Plugins](#plugins)
-- [Tools-extras](#tools-extras)
+- [Tools, extras](#tools-extras)
 - [Community](#community)
 
 
