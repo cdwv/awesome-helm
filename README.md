@@ -11,6 +11,7 @@ Helm is the package manager for Kubernetes, it makes deploying complex applicati
 - [Repositories / hubs](#repositories--hubs)
 - [Application repositories](#application-repositories)
 - [Plugins](#plugins)
+- [Tools-extras](#tools-extras)
 - [Community](#community)
 
 
@@ -57,6 +58,11 @@ Plugins
 * [Helm Last](https://github.com/adamreese/helm-last) - A helm plugin that shows the latest release interacted with. This is useful for chaining commands together like `helm status $(helm last)`.
 * [Helm Local](https://github.com/adamreese/helm-local) - a helm plugin to run Tiller (helm 2's server-side component) as a local daemon.
 * [Helm Nuke](https://github.com/adamreese/helm-nuke) - A helm plugin that deletes and purges all releases stored by Tiller.
+
+Tools, Extras
+-------------
+Helm-related tools
+* [Keel.sh](https://keel.sh) - Continuous delivery for Kubernetes - enhances Helm with auto upgrades and other cool features
 
 Community
 ---------
