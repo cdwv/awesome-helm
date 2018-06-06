@@ -58,11 +58,14 @@ Plugins
 * [Helm Last](https://github.com/adamreese/helm-last) - A helm plugin that shows the latest release interacted with. This is useful for chaining commands together like `helm status $(helm last)`.
 * [Helm Local](https://github.com/adamreese/helm-local) - a helm plugin to run Tiller (helm 2's server-side component) as a local daemon.
 * [Helm Nuke](https://github.com/adamreese/helm-nuke) - A helm plugin that deletes and purges all releases stored by Tiller.
+* [Helm Secrets](https://github.com/futuresimple/helm-secrets) - A helm plugin to manage and store secrets safely
+
 
 Tools, Extras
 -------------
 Helm-related tools
 * [Keel.sh](https://keel.sh) - Continuous delivery for Kubernetes - enhances Helm with auto upgrades and other cool features
+* [Helmfile](https://github.com/roboll/helmfile) - Helmfile is a declarative spec for deploying helm charts
 
 Community
 ---------
