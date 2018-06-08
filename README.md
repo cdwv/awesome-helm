@@ -43,7 +43,6 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Gitlab Omnibus](https://charts.gitlab.io) - an All-In-One chart for deploying Gitlab in Kubernetes
 * [Gitlab Cloud-native](https://helm.gitlab.io/) - a fresh start for Gitlab Kubernetes deployment, services are now split into their own containers
 * [Jupyterhub and Binderhub](https://jupyterhub.github.io/helm-chart/) - charts for deploying services to run Jupyter notebooks
-* [Jetstack cert-manager](https://github.com/jetstack/cert-manager/releases) - successor of kube-lego, automatically provision Let's Encrypt SSL certificates for services in Kubernetes, this has to be installed from source - no Helm repo so far
 * [VMware Harbor](https://github.com/vmware/harbor/tree/master/contrib/helm/harbor) - VMWare's solution for a container registry
 * [OpenStack](https://github.com/openstack/openstack-helm) - various charts by the OpenStack project
 * [Fn Project](https://github.com/fnproject/fn-helm) - Fn serverless platform charts 
