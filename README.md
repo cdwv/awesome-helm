@@ -49,6 +49,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Lenses](https://github.com/Landoop/kafka-helm-charts) - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
 * [Zalenium](https://github.com/zalando/zalenium/tree/master/docs/k8s/helm) - flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard
 * [Elasticsearch Fluentd Kibana](https://github.com/cdwv/efk-stack-helm) - chart to deploy a full EFK stack for Kubernetes monitoring
+* [Eclipse Che](http://www.eclipse.org/che/docs/kubernetes-multi-user.html) - instructions to install the Eclipse Che from the Helm chart bundled with the app
 
 Plugins
 -------
