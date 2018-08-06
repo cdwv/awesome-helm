@@ -26,10 +26,10 @@ Guides
 
 Repositories / hubs
 -------------------
-Official Kubernetes helm repositories
+Official Kubernetes Helm repositories
 
-* [Kubernetes Helm charts stable repo](https://github.com/kubernetes/charts/tree/master/stable)
-* [Kubernetes Helm charts incubating repo](https://github.com/kubernetes/charts/tree/master/incubator)
+* [Kubernetes Helm charts stable repo](https://github.com/helm/charts/tree/master/stable)
+* [Kubernetes Helm charts incubating repo](https://github.com/helm/charts/tree/master/incubator)
 
 3rd party repositories / hubs
 
