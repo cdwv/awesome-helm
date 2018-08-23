@@ -35,6 +35,7 @@ Official Kubernetes Helm repositories
 
 * [Fabric8](https://fabric8.io/helm/) - chart repository by Fabric8
 * [Kubeapps](https://hub.kubeapps.com/) - Kubeapps helm chart hub by Bitnami
+* [CoreOS](https://s3-eu-west-1.amazonaws.com/coreos-charts/stable/) - Charts from CoreOS, inclusing their operators.
 
 Application repositories
 ------------------------
