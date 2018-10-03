@@ -69,6 +69,7 @@ Helm-related tools
 * [Keel.sh](https://keel.sh) - Continuous delivery for Kubernetes - enhances Helm with auto upgrades and other cool features
 * [Helmfile](https://github.com/roboll/helmfile) - Helmfile is a declarative spec for deploying helm charts
 * [Autohelm](https://github.com/reactiveops/autohelm) - autohelm is a tool to simplify management and installation of multiple releases
+* [Monocular](https://github.com/helm/monocular) - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
 
 Community
 ---------
