@@ -45,7 +45,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Jupyterhub and Binderhub](https://jupyterhub.github.io/helm-chart/) - charts for deploying services to run Jupyter notebooks
 * [VMware Harbor](https://github.com/vmware/harbor/tree/master/contrib/helm/harbor) - VMWare's solution for a container registry
 * [OpenStack](https://github.com/openstack/openstack-helm) - various charts by the OpenStack project
-* [Fn Project](https://github.com/fnproject/fn-helm) - Fn serverless platform charts 
+* [Fn Project](https://github.com/fnproject/fn-helm) - Fn serverless platform charts
 * [Lenses](https://github.com/Landoop/kafka-helm-charts) - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
 * [Zalenium](https://github.com/zalando/zalenium/tree/master/docs/k8s/helm) - flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard
 * [Elasticsearch Fluentd Kibana](https://github.com/cdwv/efk-stack-helm) - chart to deploy a full EFK stack for Kubernetes monitoring
@@ -70,6 +70,7 @@ Helm-related tools
 * [Helmfile](https://github.com/roboll/helmfile) - Helmfile is a declarative spec for deploying helm charts
 * [Autohelm](https://github.com/reactiveops/autohelm) - autohelm is a tool to simplify management and installation of multiple releases
 * [Monocular](https://github.com/helm/monocular) - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
+* [Ship](https://github.com/replicatedhq/ship) - A tool that makes it easy to watch and apply updates to Helm charts and integrates [Kustomize](https://kustomize.io) patches and overlays
 
 Community
 ---------
