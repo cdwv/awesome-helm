@@ -30,6 +30,7 @@ Official Kubernetes Helm repositories
 
 * [Kubernetes Helm charts stable repo](https://github.com/helm/charts/tree/master/stable)
 * [Kubernetes Helm charts incubating repo](https://github.com/helm/charts/tree/master/incubator)
+* [Helm Hub](https://hub.helm.sh) - Official Helm Hub
 
 3rd party repositories / hubs
 
