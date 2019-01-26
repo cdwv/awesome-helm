@@ -63,6 +63,7 @@ Plugins
 * [Helm Nuke](https://github.com/adamreese/helm-nuke) - A helm plugin that deletes and purges all releases stored by Tiller.
 * [Helm Secrets](https://github.com/futuresimple/helm-secrets) - A helm plugin to manage and store secrets safely
 * [Helm Monitor](https://github.com/ContainerSolutions/helm-monitor) - Plugin to monitor a release and rollback based on Prometheus/ElasticSearch query
+* [Helm Git](https://github.com/aslafy-z/helm-git) - Helm plugin to automaticaly package a Git repository as a Helm repository
 
 Tools, Extras
 -------------
