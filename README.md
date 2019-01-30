@@ -72,6 +72,7 @@ Helm-related tools
 * [Autohelm](https://github.com/reactiveops/autohelm) - autohelm is a tool to simplify management and installation of multiple releases
 * [Monocular](https://github.com/helm/monocular) - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
 * [Ship](https://github.com/replicatedhq/ship) - A tool that makes it easy to watch and apply updates to Helm charts and integrates [Kustomize](https://kustomize.io) patches and overlays
+* [Kubeb](https://github.com/podder-ai/kubeb) - A tool to simplify Kubernetes deploy flow using Helm Chart
 
 Community
 ---------
