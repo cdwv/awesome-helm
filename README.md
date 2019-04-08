@@ -65,6 +65,7 @@ Plugins
 * [Helm Secrets](https://github.com/futuresimple/helm-secrets) - A helm plugin to manage and store secrets safely
 * [Helm Monitor](https://github.com/ContainerSolutions/helm-monitor) - Plugin to monitor a release and rollback based on Prometheus/ElasticSearch query
 * [Helm S3](https://github.com/hypnoglow/helm-s3) - Helm plugin to fetch charts from S3
+* [Helm Sealed Secrets](https://github.com/actano/helm-sealed-secrets) - Helm plugin for creating sealed secrets, possibly with vault-template
 
 Tools, Extras
 -------------
