@@ -53,6 +53,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Eclipse Che](http://www.eclipse.org/che/docs/kubernetes-multi-user.html) - instructions to install the Eclipse Che from the Helm chart bundled with the app
 * [Gravitee.io](https://github.com/gravitee-io/gravitee-kubernetes/tree/master/gravitee) - Helm chart for Gravitee.io API management platform
 * [Bitwarden](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying bitwarden-rs - unofficial Bitwarden-compatible server
+* [Elastic](https://github.com/elastic/helm-charts/) - Official helm charts for [Elatic.co](https://www.elastic.co/)'s open source products (ElasticSearch, Kibana & filebeat)
 
 Plugins
 -------
