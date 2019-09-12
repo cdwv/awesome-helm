@@ -66,6 +66,7 @@ Plugins
 * [Helm Secrets](https://github.com/futuresimple/helm-secrets) - A helm plugin to manage and store secrets safely
 * [Helm Monitor](https://github.com/ContainerSolutions/helm-monitor) - Plugin to monitor a release and rollback based on Prometheus/ElasticSearch query
 * [Helm S3](https://github.com/hypnoglow/helm-s3) - Helm plugin to fetch charts from S3
+* [Helm Starter](https://github.com/salesforce/helm-starter) - Helm plugin that simplifies working with [helm chart starter packs](https://helm.sh/docs/developing_charts/#chart-starter-packs)
 
 Tools, Extras
 -------------
@@ -77,6 +78,7 @@ Helm-related tools
 * [Monocular](https://github.com/helm/monocular) - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
 * [Ship](https://github.com/replicatedhq/ship) - A tool that makes it easy to watch and apply updates to Helm charts and integrates [Kustomize](https://kustomize.io) patches and overlays
 * [Brigade](https://github.com/brigadecore/brigade) - A tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster
+* [Helm-Starter-Istio](https://github.com/salesforce/helm-starter-istio) - A helm starer for creating [Istio](https://istio.io/) managed services
 
 Community
 ---------
