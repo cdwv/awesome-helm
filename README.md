@@ -58,15 +58,16 @@ These usually hold a single chart or a group of connected charts. Can be more up
 Plugins
 -------
 
-* [Helm Diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaing what a `helm upgrade` and `helm rollback` would change. It can also compare two separate revisions of the release.
-* [Helm Env](https://github.com/adamreese/helm-env) - a helm plugin to show the environment variables available to a helm plugin.
-* [Helm Last](https://github.com/adamreese/helm-last) - A helm plugin that shows the latest release interacted with. This is useful for chaining commands together like `helm status $(helm last)`.
-* [Helm Local](https://github.com/adamreese/helm-local) - a helm plugin to run Tiller (helm 2's server-side component) as a local daemon.
-* [Helm Nuke](https://github.com/adamreese/helm-nuke) - A helm plugin that deletes and purges all releases stored by Tiller.
-* [Helm Secrets](https://github.com/futuresimple/helm-secrets) - A helm plugin to manage and store secrets safely
-* [Helm Monitor](https://github.com/ContainerSolutions/helm-monitor) - Plugin to monitor a release and rollback based on Prometheus/ElasticSearch query
-* [Helm S3](https://github.com/hypnoglow/helm-s3) - Helm plugin to fetch charts from S3
-* [Helm Starter](https://github.com/salesforce/helm-starter) - Helm plugin that simplifies working with [helm chart starter packs](https://helm.sh/docs/developing_charts/#chart-starter-packs)
+* [Helm Diff](https://github.com/databus23/helm-diff) - Plugin that shows a diff explaing what a `helm upgrade` and `helm rollback` would change. It can also compare two separate revisions of the release.
+* [Helm Env](https://github.com/adamreese/helm-env) - Plugin to show the environment variables available to a helm plugin.
+* [Helm Last](https://github.com/adamreese/helm-last) - Plugin that shows the latest release interacted with. This is useful for chaining commands together like `helm status $(helm last)`.
+* [Helm Local](https://github.com/adamreese/helm-local) - Plugin to run Tiller (helm 2's server-side component) as a local daemon.
+* [Helm Nuke](https://github.com/adamreese/helm-nuke) - Plugin that deletes and purges all releases stored by Tiller.
+* [Helm Secrets](https://github.com/futuresimple/helm-secrets) - Plugin to manage and store secrets safely.
+* [Helm Monitor](https://github.com/ContainerSolutions/helm-monitor) - Plugin to monitor a release and rollback based on Prometheus/ElasticSearch query.
+* [Helm S3](https://github.com/hypnoglow/helm-s3) - Plugin to fetch charts from S3.
+* [Helm Starter](https://github.com/salesforce/helm-starter) - Plugin that simplifies working with [helm chart starter packs](https://helm.sh/docs/developing_charts/#chart-starter-packs).
+* [Helm GCS](https://github.com/hayorov/helm-gcs) - Plugin that manages chart repos on Google Cloud Storage privately.
 
 Tools, Extras
 -------------
