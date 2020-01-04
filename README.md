@@ -76,6 +76,8 @@ Helm-related tools
 * [Brigade](https://github.com/brigadecore/brigade) - A tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster
 * [Helm-Starter-Istio](https://github.com/salesforce/helm-starter-istio) - A helm starer for creating [Istio](https://istio.io/) managed services
 * [Helm Broker](https://github.com/kyma-project/helm-broker) - A Service Broker which exposes Helm charts as Service Classes in the [Service Catalog](https://svc-cat.io/)
+* [Chart Releaser](https://github.com/helm/chart-releaser) - Helps Turn GitHub Repositories into Helm Chart Repositories
+
 
 Community
 ---------
