@@ -105,6 +105,6 @@ License
 Maintainers
 ===========
 
-[<img width="300" title="Codewave.eu" src="cdwv-logo-new.svg">](http://codewave.eu)
+[<img width="300" title="Codewave.eu" src="cdwv-logo-new.svg">](https://codewave.eu)
 
-Project is currently maintained, in our spare time, by [codewave.eu](http://codewave.eu) and a growing number of Contributors!
+Project is currently maintained, in our spare time, by [codewave.eu](https://codewave.eu) and a growing number of Contributors!
