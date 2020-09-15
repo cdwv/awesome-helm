@@ -63,6 +63,7 @@ Plugins
 * [Helm S3](https://github.com/hypnoglow/helm-s3) - Plugin to fetch charts from S3.
 * [Helm Starter](https://github.com/salesforce/helm-starter) - Plugin that simplifies working with helm chart starter packs.
 * [Helm GCS](https://github.com/hayorov/helm-gcs) - Plugin that manages chart repos on Google Cloud Storage privately.
+* [Helm GitHub](https://github.com/web-seven/helm-github) - Plugin that detects and install Helm Charts from GitHub Public/Private Repository Releases.
 
 Tools, Extras
 -------------
