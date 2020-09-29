@@ -34,6 +34,7 @@ Official Kubernetes Helm repositories
 * [Fabric8](https://fabric8.io/helm/) - chart repository by Fabric8
 * [Kubeapps](https://hub.kubeapps.com/) - Kubeapps helm chart hub by Bitnami
 * [Fairwinds](https://hub.helm.sh/charts/fairwinds-stable) - Chart hub by Fairwinds
+* [ChartCenter](https://chartcenter.io) - Central repository of Helm charts by JFrog
 
 Application repositories
 ------------------------
