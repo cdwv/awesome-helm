@@ -59,7 +59,7 @@ Plugins
 * [Helm Last](https://github.com/adamreese/helm-last) - Plugin that shows the latest release interacted with. This is useful for chaining commands together like `helm status $(helm last)`.
 * [Helm Local](https://github.com/adamreese/helm-local) - Plugin to run Tiller (helm 2's server-side component) as a local daemon.
 * [Helm Nuke](https://github.com/adamreese/helm-nuke) - Plugin that deletes and purges all releases stored by Tiller.
-* [Helm Secrets](https://github.com/futuresimple/helm-secrets) - Plugin to manage and store secrets safely.
+* [Helm Secrets](https://github.com/jkroepke/helm-secrets) - Plugin to manage and store secrets safely.
 * [Helm Monitor](https://github.com/ContainerSolutions/helm-monitor) - Plugin to monitor a release and rollback based on Prometheus/ElasticSearch query.
 * [Helm S3](https://github.com/hypnoglow/helm-s3) - Plugin to fetch charts from S3.
 * [Helm Starter](https://github.com/salesforce/helm-starter) - Plugin that simplifies working with helm chart starter packs.
