@@ -31,6 +31,7 @@ Official Kubernetes Helm repositories
 
 3rd party repositories / hubs
 
+* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) - A fully managed package management SaaS, with first-class support for public and private Kubernetes registries (Docker + Helm Charts, plus many others). Has a generous free-tier and is also completely free for open-source.
 * [Fabric8](https://fabric8.io/helm/) - chart repository by Fabric8
 * [Kubeapps](https://hub.kubeapps.com/) - Kubeapps helm chart hub by Bitnami
 * [Fairwinds](https://hub.helm.sh/charts/fairwinds-stable) - Chart hub by Fairwinds
@@ -54,6 +55,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 Plugins
 -------
 
+* [Helm Blob](https://github.com/C123R/helm-blob) - Plugin that allows you to manage helm repositories on the blob storage like Azure Blob, GCS, S3, etc.
 * [Helm Diff](https://github.com/databus23/helm-diff) - Plugin that shows a diff explaing what a `helm upgrade` and `helm rollback` would change. It can also compare two separate revisions of the release.
 * [Helm Env](https://github.com/adamreese/helm-env) - Plugin to show the environment variables available to a helm plugin.
 * [Helm Last](https://github.com/adamreese/helm-last) - Plugin that shows the latest release interacted with. This is useful for chaining commands together like `helm status $(helm last)`.
@@ -66,6 +68,7 @@ Plugins
 * [Helm GCS](https://github.com/hayorov/helm-gcs) - Plugin that manages chart repos on Google Cloud Storage privately.
 * [Helm GitHub](https://github.com/web-seven/helm-github) - Plugin that detects and install Helm Charts from GitHub Public/Private Repository Releases.
 * [Helm Schema Gen](https://github.com/karuppiah7890/helm-schema-gen) - So that you don't have to write `values.schema.json` by hand from scratch for your Helm 3 charts
+* [Helm Datree](https://github.com/datreeio/helm-datree) - Plugin to prevent Kubernetes misconfigurations by ensuring that Helm charts follow best practices as well as your organization’s policies
 
 Tools, Extras
 -------------
@@ -77,10 +80,12 @@ Helm-related tools
 * [Monocular](https://github.com/helm/monocular) - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
 * [Ship](https://github.com/replicatedhq/ship) - A tool that makes it easy to watch and apply updates to Helm charts and integrates [Kustomize](https://kustomize.io) patches and overlays
 * [Brigade](https://github.com/brigadecore/brigade) - A tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster
-* [Helm-Starter-Istio](https://github.com/salesforce/helm-starter-istio) - A helm starer for creating [Istio](https://istio.io/) managed services
+* [Helm-Starter-Istio](https://github.com/salesforce/helm-starter-istio) - A helm starter for creating [Istio](https://istio.io/) managed services
 * [Helm Broker](https://github.com/kyma-project/helm-broker) - A Service Broker which exposes Helm charts as Service Classes in the [Service Catalog](https://svc-cat.io/)
 * [Chart Releaser](https://github.com/helm/chart-releaser) - Helps Turn GitHub Repositories into Helm Chart Repositories
 * [Helmify](https://github.com/arttor/helmify) - Generates a Helm chart from Kubernetes yamls
+* [Helm Docs](https://github.com/norwoodj/helm-docs) - Auto-generates documentation from helm charts into markdown files
+* [Chart Viewer](https://github.com/ecojuntak/chart-viewer) - Helps you inspect and compare chart template and also rendered manifest
 
 
 Community
