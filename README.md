@@ -83,6 +83,7 @@ Helm-related tools
 * [Helm-Starter-Istio](https://github.com/salesforce/helm-starter-istio) - A helm starter for creating [Istio](https://istio.io/) managed services
 * [Helm Broker](https://github.com/kyma-project/helm-broker) - A Service Broker which exposes Helm charts as Service Classes in the [Service Catalog](https://svc-cat.io/)
 * [Chart Releaser](https://github.com/helm/chart-releaser) - Helps Turn GitHub Repositories into Helm Chart Repositories
+* [Helmify](https://github.com/arttor/helmify) - Generates a Helm chart from Kubernetes yamls
 * [Helm Docs](https://github.com/norwoodj/helm-docs) - Auto-generates documentation from helm charts into markdown files
 * [Chart Viewer](https://github.com/ecojuntak/chart-viewer) - Helps you inspect and compare chart template and also rendered manifest
 
