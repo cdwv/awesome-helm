@@ -31,6 +31,7 @@ Official Kubernetes Helm repositories
 
 3rd party repositories / hubs
 
+* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) - A fully managed package management SaaS, with first-class support for public and private Kubernetes registries (Docker + Helm Charts, plus many others). Has a generous free-tier and is also completely free for open-source.
 * [Fabric8](https://fabric8.io/helm/) - chart repository by Fabric8
 * [Kubeapps](https://hub.kubeapps.com/) - Kubeapps helm chart hub by Bitnami
 * [Fairwinds](https://hub.helm.sh/charts/fairwinds-stable) - Chart hub by Fairwinds
