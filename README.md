@@ -57,6 +57,7 @@ Plugins
 -------
 
 * [Helm Blob](https://github.com/C123R/helm-blob) - Plugin that allows you to manage helm repositories on the blob storage like Azure Blob, GCS, S3, etc.
+* [Helm Dashboard](https://github.com/komodorio/helm-dashboard) - Plugin that serves as the missing UI for Helm. The Helm Dashboard plugin offers a UI-driven way to view installed Helm charts, see their revision history and corresponding k8s resources. 
 * [Helm Diff](https://github.com/databus23/helm-diff) - Plugin that shows a diff explaing what a `helm upgrade` and `helm rollback` would change. It can also compare two separate revisions of the release.
 * [Helm Env](https://github.com/adamreese/helm-env) - Plugin to show the environment variables available to a helm plugin.
 * [Helm Last](https://github.com/adamreese/helm-last) - Plugin that shows the latest release interacted with. This is useful for chaining commands together like `helm status $(helm last)`.
