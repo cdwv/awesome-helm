@@ -91,6 +91,7 @@ Helm-related tools
 * [Helmify](https://github.com/arttor/helmify) - Generates a Helm chart from Kubernetes yamls
 * [Helm Docs](https://github.com/norwoodj/helm-docs) - Auto-generates documentation from helm charts into markdown files
 * [Chart Viewer](https://github.com/ecojuntak/chart-viewer) - Helps you inspect and compare chart template and also rendered manifest
+* [werf](https://werf.io/) - A CLI tool for implementing CI/CD best practices using an extended version of Helm under the hood for deployment
 
 
 Community
