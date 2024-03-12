@@ -69,6 +69,7 @@ Plugins
 * [Helm Starter](https://github.com/salesforce/helm-starter) - Plugin that simplifies working with helm chart starter packs.
 * [Helm GCS](https://github.com/hayorov/helm-gcs) - Plugin that manages chart repos on Google Cloud Storage privately.
 * [Helm GitHub](https://github.com/web-seven/helm-github) - Plugin that detects and install Helm Charts from GitHub Public/Private Repository Releases.
+* [Helm Schema](https://github.com/dadav/helm-schema) - Auto-generate jsonschema files for helm charts.
 * [Helm Schema Gen](https://github.com/karuppiah7890/helm-schema-gen) - So that you don't have to write `values.schema.json` by hand from scratch for your Helm 3 charts
 * [Helm Datree](https://github.com/datreeio/helm-datree) - Plugin to prevent Kubernetes misconfigurations by ensuring that Helm charts follow best practices as well as your organization’s policies
 * [Helm Teller](https://github.com/SpectralOps/helm-teller) - Plugin that allows you to manage deployment configuration and secrets from multiple providers securely with [Teller](https://github.com/SpectralOps/teller)
