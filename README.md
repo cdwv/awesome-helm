@@ -18,9 +18,12 @@ Helm is the package manager for Kubernetes, it makes deploying complex applicati
 Guides
 ------
 * [How to create your first helm chart](https://docs.vmware.com/en/VMware-Tanzu-Application-Catalog/services/tutorials/GUID-create-first-helm-chart-index.html) - Bitnami guide on authoring your first chart
+* [Authoring awesome charts](https://github.com/helm/helm-classic/blob/master/docs/awesome.md) - official Helm guide on authoring Awesome Charts
+* [Kompose](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/) - how to translate a docker-compose file into a Helm chart
 * [Best Practices Guide](https://helm.sh/docs/chart_best_practices/) - Best practices for creating charts
 * [Chart Template Developer's Guide](https://helm.sh/docs/chart_template_guide/) - Official Helm guide on Chart Templating
 * [v2 to v3 Migration](https://helm.sh/docs/topics/v2_v3_migration/) - Guide on migrating Helm v2 to v3
+
 
 Repositories / hubs
 -------------------
