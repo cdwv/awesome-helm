@@ -12,6 +12,7 @@ Helm is the package manager for Kubernetes, it makes deploying complex applicati
 - [Application repositories](#application-repositories)
 - [Plugins](#plugins)
 - [Tools, extras](#tools-extras)
+- [Testing](#testing)
 - [Community](#community)
 
 
@@ -96,6 +97,17 @@ Helm-related tools
 * [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
 * [Chart Viewer](https://github.com/ecojuntak/chart-viewer) - Helps you inspect and compare chart template and also rendered manifest
 * [werf](https://werf.io/) - A CLI tool for implementing CI/CD best practices using an extended version of Helm under the hood for deployment
+
+
+Testing
+-------
+Testing Helm charts
+
+* [Helm Test](https://helm.sh/docs/topics/chart_tests/) - Helm test command runs tests for a release. Mainly validates if the resources are created and available.
+* [Helm Lint](https://helm.sh/docs/helm/helm_lint/) - Helm lint command checks a chart for possible issues.
+* [`ct`, Official CLI for testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts.
+* [helm-unittest](https://github.com/quintush/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
+* [helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts. Allows you to compare the rendered output of a Helm chart against a snapshot.
 
 
 Community
