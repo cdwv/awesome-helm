@@ -57,6 +57,7 @@ Plugins
 -------
 
 * [Helm Blob](https://github.com/C123R/helm-blob) - Plugin that allows you to manage helm repositories on the blob storage like Azure Blob, GCS, S3, etc.
+* [Helm Cel](https://github.com/idsulik/helm-cel) - Plugin that uses Common Expression Language ([CEL](https://cel.dev/)) to validate values.
 * [Helm Diff](https://github.com/databus23/helm-diff) - Plugin that shows a diff explaing what a `helm upgrade` and `helm rollback` would change. It can also compare two separate revisions of the release.
 * [Helm Dt](https://github.com/vmware-labs/distribution-tooling-for-helm) - Plugin that helps moving Helm charts across OCI registries.
 * [Helm Env](https://github.com/adamreese/helm-env) - Plugin to show the environment variables available to a helm plugin.
