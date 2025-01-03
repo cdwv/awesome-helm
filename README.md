@@ -76,6 +76,7 @@ Plugins
 * [Helm Teller](https://github.com/SpectralOps/helm-teller) - Plugin that allows you to manage deployment configuration and secrets from multiple providers securely with [Teller](https://github.com/SpectralOps/teller)
 * [Helm Release](https://github.com/JovianX/helm-release-plugin) - Plugin that pulls(re-creates) Helm charts from deployed releases, also allows update values of deployed releases without supplying the chart(for modified or custom charts, or when there's no access to the chart)
 * [Helm Compose](https://github.com/seacrew/helm-compose) - Plugin that allows coupled multi release handling of one or many charts. With full configuration-as-code capabilities in a single yaml file similar to docker-compose.
+* [Helm Unittest](https://github.com/helm-unittest/helm-unittest) - Plugin that enables you to run BDD style unit tests against rendered Helm charts. Adds the `helm unittest` command to execute tests.
 
 
 Tools, Extras
