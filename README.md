@@ -36,6 +36,7 @@ Official Kubernetes Helm repositories
 * [Kubeapps](https://hub.kubeapps.com/) - Kubeapps helm chart hub by Bitnami
 * [Fairwinds](https://hub.helm.sh/charts/fairwinds-stable) - Chart hub by Fairwinds
 * [ChartCenter](https://chartcenter.io) - Central repository of Helm charts by JFrog
+* [awesome-docker-run](https://github.com/deploystackio/awesome-docker-run) - Transfer docker run command into Helm Chart by [DeployStack](https://deploystack.io/)
 
 Application repositories
 ------------------------
