@@ -94,6 +94,7 @@ Helm-related tools
 * [Helm Broker](https://github.com/kyma-project/helm-broker) - A Service Broker which exposes Helm charts as Service Classes in the [Service Catalog](https://svc-cat.io/)
 * [Chart Releaser](https://github.com/helm/chart-releaser) - Helps Turn GitHub Repositories into Helm Chart Repositories
 * [ChartMuseum](https://chartmuseum.com/) - ChartMuseum is an open-source, easy to deploy, Helm Chart Repository server.
+* [Kube Foundry](https://github.com/kube-foundry/kube-foundry) - Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods. Deploys via Helm chart.
 * [Helmify](https://github.com/arttor/helmify) - Generates a Helm chart from Kubernetes yamls
 * [Helm Docs](https://github.com/norwoodj/helm-docs) - Auto-generates documentation from helm charts into markdown files
 * [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
