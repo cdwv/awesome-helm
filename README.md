@@ -4,6 +4,7 @@
 
 Helm is the package manager for Kubernetes, it makes deploying complex application workloads simple, helps organize the update process.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Helm chart workflow orchestration, automated Kubernetes deployment management, and multi-agent coordination. MIT licensed.
 # Contents
 <!-- TOC -->
 
