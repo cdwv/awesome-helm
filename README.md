@@ -99,6 +99,7 @@ Helm-related tools
 * [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
 * [Chart Viewer](https://github.com/ecojuntak/chart-viewer) - Helps you inspect and compare chart template and also rendered manifest
 * [werf](https://werf.io/) - A CLI tool for implementing CI/CD best practices using an extended version of Helm under the hood for deployment
+* [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform that natively deploys Helm charts from public/private repositories or Git repos. Includes Terraform provider, CLI, API, and [AI Agent Skill](https://github.com/Qovery/qovery-skills) for AI-assisted deployment.
 
 
 Community
