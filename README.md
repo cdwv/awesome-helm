@@ -83,6 +83,7 @@ Plugins
 Tools, Extras
 -------------
 Helm-related tools
+* [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard for managing Helm-deployed workloads across hybrid edge and cloud environments. Provides real-time observability, CNCF integrations, and AI-guided cluster operations. CNCF Sandbox project.
 * [Keel.sh](https://keel.sh) - Continuous delivery for Kubernetes - enhances Helm with auto upgrades and other cool features
 * [Helmfile](https://github.com/roboll/helmfile) - Helmfile is a declarative spec for deploying helm charts, supports flexible templating scenarios
 * [Helmsman](https://github.com/Praqma/helmsman) - Helmsman provides a declarative way of installing charts, features terraform-like desired state file approach and security enhancements
