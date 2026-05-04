@@ -52,6 +52,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Bitwarden](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying bitwarden-rs - unofficial Bitwarden-compatible server
 * [Elastic](https://github.com/elastic/helm-charts/) - Official helm charts for [Elatic.co](https://www.elastic.co/)'s open source products (ElasticSearch, Kibana & filebeat)
 * [Mocktail](https://github.com/Huseyinnurbaki/mocktail) - Helm chart for deploying the free, tiny mock api server Mocktail
+* [k8s-ops-toolkit](https://github.com/sarmakska/k8s-ops-toolkit) - Helm bundle for shipping Next.js apps to Kubernetes with ingress-nginx, cert-manager, kube-prometheus-stack, and Loki preconfigured. Includes a `nextjs-app` chart with probes/HPA/ServiceMonitor and an `observability` chart bundling Prometheus, Grafana, Loki and Alertmanager.
 
 Plugins
 -------
