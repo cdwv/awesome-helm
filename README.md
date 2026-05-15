@@ -52,6 +52,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Bitwarden](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying bitwarden-rs - unofficial Bitwarden-compatible server
 * [Elastic](https://github.com/elastic/helm-charts/) - Official helm charts for [Elatic.co](https://www.elastic.co/)'s open source products (ElasticSearch, Kibana & filebeat)
 * [Mocktail](https://github.com/Huseyinnurbaki/mocktail) - Helm chart for deploying the free, tiny mock api server Mocktail
+* [AgentTier](https://github.com/agenttier/agenttier) - Helm chart for an open-source Kubernetes-native operator that provisions isolated, persistent sandboxes for human developers and AI agents through a Sandbox CRD. Chart at https://agenttier.github.io/agenttier/charts.
 
 Plugins
 -------
