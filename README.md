@@ -101,6 +101,7 @@ Helm-related tools
 * [Helm Docs](https://github.com/norwoodj/helm-docs) - Auto-generates documentation from helm charts into markdown files
 * [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
 * [Chart Viewer](https://github.com/ecojuntak/chart-viewer) - Helps you inspect and compare chart template and also rendered manifest
+* [segspec](https://github.com/dormstern/segspec) - Extracts network dependencies from Helm charts and other config files, generates Kubernetes NetworkPolicies with evidence tracing
 * [werf](https://werf.io/) - A CLI tool for implementing CI/CD best practices using an extended version of Helm under the hood for deployment
 * [YAML Validator](https://yamlvalidator.dev) - Online YAML validator and [Chrome extension](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) with JSON Schema support for Helm Charts, Kubernetes, and other formats, plus YAML code folding on GitHub
 * [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform that natively deploys Helm charts from public/private repositories or Git repos. Includes Terraform provider, CLI, API, and [AI Agent Skill](https://github.com/Qovery/qovery-skills) for AI-assisted deployment.
