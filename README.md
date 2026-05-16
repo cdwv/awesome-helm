@@ -80,6 +80,8 @@ Plugins
 * [Helm Compose](https://github.com/seacrew/helm-compose) - Plugin that allows coupled multi release handling of one or many charts. With full configuration-as-code capabilities in a single yaml file similar to docker-compose.
 * [Helm Unittest](https://github.com/helm-unittest/helm-unittest) - Plugin that enables you to run BDD style unit tests against rendered Helm charts. Adds the `helm unittest` command to execute tests.
 * [Helm Kanvas Snapshot](https://github.com/meshery/helm-kanvas-snapshot) - Plugin that generates a visual snapshot of Helm charts.
+* [Helm Kanvas Snapshot Website](https://meshery.io/extensions/helm-kanvas-snapshot) - Explore snapshots of Helm charts visually on Meshery's official site.
+
 
 
 Tools, Extras
