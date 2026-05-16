@@ -44,6 +44,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Gitlab Omnibus](https://charts.gitlab.io) - an All-In-One chart for deploying Gitlab in Kubernetes
 * [Jupyterhub and Binderhub](https://jupyterhub.github.io/helm-chart/) - charts for deploying services to run Jupyter notebooks
 * [Harbor](https://github.com/goharbor/harbor-helm) - Harbor is a container and Helm registry with built-in security
+* [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Helm chart deploys as DaemonSet with RBAC, traces CUDA APIs and host kernel events to explain GPU latency.
 * [OpenStack](https://github.com/openstack/openstack-helm) - various charts by the OpenStack project
 * [Fn Project](https://github.com/fnproject/fn-helm) - Fn serverless platform charts
 * [Lenses](https://github.com/Landoop/kafka-helm-charts) - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
