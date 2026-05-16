@@ -36,7 +36,8 @@ Official Kubernetes Helm repositories
 * [Kubeapps](https://hub.kubeapps.com/) - Kubeapps helm chart hub by Bitnami
 * [Fairwinds](https://hub.helm.sh/charts/fairwinds-stable) - Chart hub by Fairwinds
 * [ChartCenter](https://chartcenter.io) - Central repository of Helm charts by JFrog
-
+* [Meshery Catalog](https://meshery.io/catalog) - Well-architected patterns for Kubernetes and all CNCF projects
+  
 Application repositories
 ------------------------
 These usually hold a single chart or a group of connected charts. Can be more up to date than the mainstream Kubernetes repos.
