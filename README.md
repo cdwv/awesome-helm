@@ -106,6 +106,8 @@ Helm-related tools
 * [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with Helm chart deployment, deployed via its own Helm chart for easy installation
 
 
+* [Helm Chart Compatibility Checker](https://releaserun.com/tools/helm-checker/) - Free browser-based tool to check Helm chart API version compatibility with your target Kubernetes version. Catches deprecated and removed APIs before deployment.
+
 Community
 ---------
 Forums, discussion groups, SO tags.
