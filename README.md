@@ -122,6 +122,8 @@ Testing Helm charts
 * [helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts. Allows you to compare the rendered output of a Helm chart against a snapshot.
 
 
+* [Helm Chart Compatibility Checker](https://releaserun.com/tools/helm-checker/) - Free browser-based tool to check Helm chart API version compatibility with your target Kubernetes version. Catches deprecated and removed APIs before deployment.
+
 Community
 ---------
 Forums, discussion groups, SO tags.
