@@ -103,6 +103,7 @@ Helm-related tools
 * [Helmify](https://github.com/arttor/helmify) - Generates a Helm chart from Kubernetes yamls
 * [Helm Docs](https://github.com/norwoodj/helm-docs) - Auto-generates documentation from helm charts into markdown files
 * [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
+* [Helm Scribe](https://github.com/Miosp/helm-scribe) - Generates a README values table and a values.schema.json (JSON Schema) from an annotated values.yaml, with support for referencing Kubernetes API types.
 * [Chart Viewer](https://github.com/ecojuntak/chart-viewer) - Helps you inspect and compare chart template and also rendered manifest
 * [segspec](https://github.com/dormstern/segspec) - Extracts network dependencies from Helm charts and other config files, generates Kubernetes NetworkPolicies with evidence tracing
 * [werf](https://werf.io/) - A CLI tool for implementing CI/CD best practices using an extended version of Helm under the hood for deployment
