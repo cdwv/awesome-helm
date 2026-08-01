@@ -56,6 +56,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Elastic](https://github.com/elastic/helm-charts/) - Official helm charts for [Elatic.co](https://www.elastic.co/)'s open source products (ElasticSearch, Kibana & filebeat)
 * [Mocktail](https://github.com/Huseyinnurbaki/mocktail) - Helm chart for deploying the free, tiny mock api server Mocktail
 * [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes management console with built-in Helm chart for one-command deployment
+* [dradoaica's helm charts](https://github.com/dradoaica/helm-charts) - A curated collection of production-ready Community Helm Charts for underrated open-source gems.
 
 Plugins
 -------
