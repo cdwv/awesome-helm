@@ -56,6 +56,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Elastic](https://github.com/elastic/helm-charts/) - Official helm charts for [Elatic.co](https://www.elastic.co/)'s open source products (ElasticSearch, Kibana & filebeat)
 * [Mocktail](https://github.com/Huseyinnurbaki/mocktail) - Helm chart for deploying the free, tiny mock api server Mocktail
 * [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes management console with built-in Helm chart for one-command deployment
+* [GenieACS](https://github.com/GeiserX/genieacs-container) - community Helm chart and Docker image for GenieACS, the open-source TR-069 ACS that manages routers, ONTs and other CPE devices, with a bundled or external MongoDB
 
 Plugins
 -------
