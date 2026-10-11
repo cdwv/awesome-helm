@@ -21,6 +21,7 @@ Guides
 * [How to create your first helm chart](https://techdocs.broadcom.com/us/en/vmware-tanzu/application-catalog/tanzu-application-catalog/services/tac-doc/apps-tutorials-create-first-helm-chart-index.html) - Broadcom guide on authoring your first chart
 * [Authoring awesome charts](https://github.com/helm/helm-classic/blob/master/docs/awesome.md) - official Helm guide on authoring Awesome Charts
 * [Kompose](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/) - how to translate a docker-compose file into a Helm chart
+* [Helm 4 Migration Guide](https://devtoolhub.com/helm-4-migration-guide/) - what breaks and how to fix it before Helm 3 end of life
 
 Repositories / hubs
 -------------------
