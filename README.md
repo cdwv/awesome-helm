@@ -90,6 +90,7 @@ Helm-related tools
 * [Keel.sh](https://keel.sh) - Continuous delivery for Kubernetes - enhances Helm with auto upgrades and other cool features
 * [Kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands.
 * [Helmfile](https://github.com/roboll/helmfile) - Helmfile is a declarative spec for deploying helm charts, supports flexible templating scenarios
+* [Helmfile for IntelliJ](https://github.com/k3rnL/helmfile-intellij-plugin) - IntelliJ IDEA plugin for Helmfile YAML and Go templates, with environment-aware values completion, chart browsing, release actions, and native diff viewing.
 * [Helmsman](https://github.com/Praqma/helmsman) - Helmsman provides a declarative way of installing charts, features terraform-like desired state file approach and security enhancements
 * [Reckoner](https://github.com/FairwindsOps/reckoner) - Reckoner is a tool to simplify management and installation of multiple Helm chart releases
 * [Monocular](https://github.com/helm/monocular) - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
