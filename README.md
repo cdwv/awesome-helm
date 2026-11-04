@@ -38,6 +38,7 @@ Official Kubernetes Helm repositories
 * [Fairwinds](https://hub.helm.sh/charts/fairwinds-stable) - Chart hub by Fairwinds
 * [ChartCenter](https://chartcenter.io) - Central repository of Helm charts by JFrog
 * [Meshery Catalog](https://meshery.io/catalog) - Well-architected patterns for Kubernetes and all CNCF projects
+* [CloudRepo](https://www.cloudrepo.io/docs/formats/helm.html) - Fully managed private Helm chart repositories (OCI), alongside Docker, Maven, Gradle, PyPI and npm.
   
 Application repositories
 ------------------------
